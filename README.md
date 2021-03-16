@@ -3,6 +3,9 @@
 ## My name is Mohammed Alramahi I've completed my bachelors degree in Computer Science last Jan and I've joined ASAC course to sharpen my skills in web development
 ### The link to my github portfolio is:
 [Mohammed Alramahi](https://github.com/Mohammed-Alramahi)
+### contact info:
+- E-mail: vittosc1997@gmail.com
+
 *and here are Some of my favourite hobbies:*
 - Gaming
 - Writing code
