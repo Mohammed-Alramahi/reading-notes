@@ -15,10 +15,10 @@
 
  | Assignment |      link                                                                           |
  | -----------| ------------------------------------------------------------------------------------| 
- | read 01    | [read 01](https://github.com/Mohammed-Alramahi/asac/blob/main/read01.md)            |
- | read 02a   | [read 02a](https://github.com/Mohammed-Alramahi/asac/blob/main/read02a.md)          |
- | read 02b   | [read 02b](https://github.com/Mohammed-Alramahi/asac/blob/main/read02b.md)          |
- | lab 02a    | [lab 02a](https://github.com/Mohammed-Alramahi/asac/blob/main/lab02a.md)            |
+ | read 01    | [read 01](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read01.md)   |
+ | read 02a   | [read 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read02a.md) |
+ | read 02b   | [read 02b](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read02b.md) |
+ | lab 02a    | [lab 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/lab02a.md)   |
  | read 03    | [read 03](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read03.md)   |
  | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read04a.md) |
 
