@@ -13,7 +13,7 @@
 
 **Table of contents**:
 
- |   Read     |      link                                                                           |
+ | Assignment |      link                                                                           |
  | -----------| ------------------------------------------------------------------------------------| 
  | read 01    | [read 01](https://github.com/Mohammed-Alramahi/asac/blob/main/read01.md)            |
  | read 02a   | [read 02a](https://github.com/Mohammed-Alramahi/asac/blob/main/read02a.md)          |
