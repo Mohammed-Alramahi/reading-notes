@@ -53,5 +53,6 @@ While the first expression is *false* the second one is *true* Which will return
   `while (number<10)`
   `{`
       `document.write(number)+<br>;`
+      `number++;`
   `}`
   

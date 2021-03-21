@@ -21,4 +21,4 @@
  | lab 02a    | [lab 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/lab02a.md)   |
  | read 03    | [read 03](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read03.md)   |
  | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read04a.md) |
-
+ | read 05    | [read 05](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read05.md)   |
