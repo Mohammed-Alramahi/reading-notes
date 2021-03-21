@@ -27,7 +27,7 @@
 `}`
 ***
 *Background colors*
-- *Same goes as above but we change `color` into `background-color` and that's pretty much it.
+- *Same goes as above but we change `color` into `background-color` and that's pretty much it.*
 ***
 *The Most important thing while playing around with colors is the contrast because when you have let's say yellow background and pink foreground color you will immediately notice how it's ugly and unreadable at the same time so keep that in mind.*
 ***

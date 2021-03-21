@@ -22,3 +22,4 @@
  | read 03    | [read 03](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read03.md)   |
  | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read04a.md) |
  | read 05    | [read 05](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read05.md)   |
+ | read 06    | [read 06](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read06.md)   |
