@@ -11,15 +11,36 @@
 - Writing code
 - Solving challenging puzzles
 
-**Table of contents**:
+**Table of contents for code-102**:
 
  | Assignment |      link                                                                           |
  | -----------| ------------------------------------------------------------------------------------| 
- | read 01    | [read 01](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read01.md)   |
- | read 02a   | [read 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read02a.md) |
- | read 02b   | [read 02b](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read02b.md) |
- | lab 02a    | [lab 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/lab02a.md)   |
- | read 03    | [read 03](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read03.md)   |
- | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read04a.md) |
- | read 05    | [read 05](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read05.md)   |
- | read 06    | [read 06](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/read06.md)   |
+ | read 01    | [read 01](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read01.md)   |
+ | read 02a   | [read 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read02a.md) |
+ | read 02b   | [read 02b](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read02b.md) |
+ | lab 02a    | [lab 02a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/lab02a.md)   |
+ | read 03    | [read 03](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read03.md)   |
+ | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read04a.md) |
+ | read 05    | [read 05](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read05.md)   |
+ | read 06    | [read 06](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read06.md)   |
+
+
+ **Table of contents for code-201**:
+
+ | Assignment |      link                                                                           |
+ | -----------| ------------------------------------------------------------------------------------| 
+ | read 01    | [Introductory HTML and JavaScript](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-01.md)   |
+ | read 02   | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-02.md) |
+ | read 03   | [HTML Lists, CSS Boxes, JS Control Flow](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-03.md) |
+ | read 04   | [HTML Links, CSS Layout, JS Functions](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-04.md)   |
+ | read 05    | [HTML Images; CSS Color & Text](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-05.md)   |
+ | read 06   | [JS Object Literals; The DOM](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-06.md) |
+ | read 07   | [HTML Tables; JS Constructor Functions](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-07.md)   |
+ | read 08    | [More CSS Layout](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-08.md)   |
+ | read 09   | [Forms and Events](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-09.md) |
+ | read 10   | [JS Debugging](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-10.md) |
+ | read 11   | [Assorted Topics](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-11.md)|
+ | read 12    | [Docs for the HTML `<canvas>` Element & Chart.js](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-12.md)   |
+ | read 13   | [Local Storage](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-13.md) |
+ | read 14a   | [CSS Transforms, Transitions, and Animations](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-14a.md)   |
+ | read 14b    | [What Google Learned About Teams](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-14b.md)   |
