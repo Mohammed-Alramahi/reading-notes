@@ -15,7 +15,7 @@
 
 **When the specified link isn't correct it will give us an error of *404 page not found* .**
 
-**What if we want to send an email through HTML? or we want the link to open in new tab**
+**What if we want to send an email through HTML? or we want the link to open in a new tab**
 
 ```html
    <!-- This is how to send an email -->
@@ -25,9 +25,9 @@
 
 ```
 
-**We can even put a link for same page but on some location on the page by specifying the id of that element and this can come very handy when creating user friendly website:**
+**We can even put a link for the same page but on some location on the page by specifying the id of that element and this can come very handy when creating a user-friendly website:**
 
-**Let's imagine that it's really long page with a lot of content inside of it we can for example make a link to navigate from  top to bottom or the opposite.**
+**Let's imagine that it's a long page with a lot of content inside of it we can for example make a link to navigate from top to bottom or the opposite.**
 
 ```html
    <div id="top-area"><a href="#bot-area">go down to bottom</a></div>
@@ -40,14 +40,14 @@
 ## CSS Layout
 
 **building  blocks**
- - Inline elements:will flow inside the text like `<span>`.
- - Block level elements: will cover a whole line of content and you can specify each space will the elemnent cover like `<div>`
- - when there is a block level element inside another block level element it gonna treat the outside element as a parent element and you can change space between them through *padding*.
+ - Inline elements: will flow inside the text like `<span>`.
+ - Block-level elements: will cover a whole line of content and you can specify each space will the element cover like `<div>`
+ - when there is a block-level element inside another block-level element it gonna treat the outside element as a parent element and you can change the space between them through *padding*.
 
  **For the positioning there are three types:**
- - Normal flow: each element will display after each other side by side or top of each other.
- - Relative positioning: gonna shift the element top, bottom, left and right depending on what you specified.
- - Absolute positioning: it gonna ignore any spaces between the elments and position it like you want.
+ - Normal flow: each element will display after each other side by side or on top of each other.
+ - Relative positioning: gonna shift the element top, bottom, left, and right depending on what you specified.
+ - Absolute positioning: it gonna ignore any spaces between the elements and position them as you want.
 
  - `z-index` will make the element overlap other elements or sit behind them.
  - floating elements will make the element float on the page either right or left.
@@ -63,7 +63,7 @@
 ***
 ## JS Functions
 
-**Functions in javascript enable us to group a set of instructions together so you can do something specific that is repetitve in your code without needing to write these instructions over and over so it's really helpful.**
+**Functions in javascript enable us to group a set of instructions so you can do something specific that is repetitive in your code without needing to write these instructions over and over so it's really helpful.**
 
 ```javascript 
   let number1=5;
