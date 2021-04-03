@@ -11,7 +11,7 @@
 - Making software scalable and maintainable.
 - etc.
 
-** To have the idea of how to solve a problem we should keep building the stuff over and over again and that's where we'll have familiarity with the problem domain.**
+**To have the idea of how to solve a problem we should keep building the stuff over and over again and that's where we'll have familiarity with the problem domain.**
 
 **What you can do to get rid of problem domain:**
 - Make the problem domain simpler.
@@ -46,11 +46,11 @@ To get or set properties or methods of objects we gonna use dot `.` to implement
  1. Accessing a single node.
   - `getElementById()` given an id will return the element by it's ID.
   - `querySelector()` passing a CSS selector will return the element.
- 1. Accessing multiple nodes.
+ 2. Accessing multiple nodes.
   - `getElementsByClassName()` will give all elements holding that class attribute.
   - `getElementByTagName()` returns all elements with that tag like `<div>`
   - `querySelectorAll()` will return all possible elements that uses that CSS selector.
- 1. Traversing between nodes.
+ 3. Traversing between nodes.
   - `parentNode` selects the parent of the element.
   - `firstChild` select the first child of the current element.
 
