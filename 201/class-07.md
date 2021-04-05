@@ -1,11 +1,13 @@
-## Domain modeling
+
+**Domain modeling**
+
 Domain modeling is that the method of making an abstract model in code for a selected downside. A model describes the varied entities, their attributes and behaviors, also because of the constraints that govern the matter domain. the associate entity that stores information in properties associated encapsulates behaviors in ways is usually observed as an object-oriented model.
-
-
 A domain model that is articulated well will verify and validate the understanding of a selected downside among numerous stakeholders. As a communication tool, it defines a vocabulary that may be used among and between each technical and business group.
 ***
-### HTML table
-**To make a normal HTML table we write as follows:
+
+**HTML table**
+
+**To make a normal HTML table we write as follows:**
 ```html
  <table>
  <tr>
@@ -44,8 +46,7 @@ A domain model that is articulated well will verify and validate the understandi
 ```
 
 
-## JS constructor function
-
+**JS constructor function**
 
 **As object literals make our life much easier constructors should play a better helper and To make objects share the same properties, we'll use a constructor.**
 
