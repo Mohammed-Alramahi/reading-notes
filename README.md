@@ -10,7 +10,9 @@
 - Gaming
 - Writing code
 - Solving challenging puzzles
+
 ***
+
  **Code 102 - Intro to Software Development**
 
  **Table of contents for code-102**:
@@ -25,7 +27,7 @@
  | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read04a.md) |
  | read 05    | [read 05](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read05.md)   |
  | read 06    | [read 06](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read06.md)   |
- 
+
 ***
  **Code 201 - Foundations of Software Development**
 
