@@ -25,6 +25,7 @@
  | read 04a   | [read 04a](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read04a.md) |
  | read 05    | [read 05](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read05.md)   |
  | read 06    | [read 06](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/102/read06.md)   |
+ 
 ***
  **Code 201 - Foundations of Software Development**
 
@@ -47,6 +48,7 @@
  | read 13   | [Local Storage](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-13.md) |
  | read 14a   | [CSS Transforms, Transitions, and Animations](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-14a.md)   |
  | read 14b    | [What Google Learned About Teams](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/201/class-14b.md)   |
+
 ***
  **Code 301 - Intermediate Software Development**
 
