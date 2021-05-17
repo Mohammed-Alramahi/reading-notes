@@ -55,3 +55,8 @@
  **Code 301 - Intermediate Software Development**
 
  **Table of contents for code-301**:
+
+| Assignment |      link                                                                           |
+ | -----------| ------------------------------------------------------------------------------------| 
+ | read 01    | [Introduction to React and Components](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read01.md)   |
+ | read 02    | [State and Props](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read02.md)   |
