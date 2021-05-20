@@ -61,3 +61,6 @@
  | read 01    | [Introduction to React and Components](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read01.md)   |
  | read 02    | [State and Props](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read02.md)   |
  | read 03    | [Passing Functions as Props](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read03.md)   |
+ | read 04    | [React and Forms](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read04.md)   |
+ | read 05    | [Putting it all together](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read05.md)   |
+
