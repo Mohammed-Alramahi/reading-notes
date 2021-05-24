@@ -65,4 +65,5 @@
  | read 05    | [Putting it all together](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read05.md)   |
  | read 06    | [NODE.JS](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read06.md)   |
  | read 07    | [REST](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read07.md)   |
+ | read 08    | [APIs](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read08.md)   |
 
