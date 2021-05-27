@@ -67,5 +67,5 @@
  | read 07    | [REST](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read07.md)   |
  | read 08    | [APIs](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read08.md)   |
  | read 09    | [FUNCTIONAL PROGRAMMING](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read09.md)   |
- | read 10    | [APIs](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read10.md)   |
+ | read 10    | [In memory storage](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read10.md)   |
 
