@@ -69,4 +69,5 @@
  | read 09    | [FUNCTIONAL PROGRAMMING](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read09.md)   |
  | read 10    | [In memory storage](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read10.md)   |
  | read 11    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read11.md)   |
+ | read 12    | [Mongo and Mongoose](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/301/read11.md)   |
 
