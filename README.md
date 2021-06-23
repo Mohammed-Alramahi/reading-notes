@@ -89,4 +89,4 @@ _and here are Some of my favourite hobbies:_
 
 | Assignment | link                                                                                                     |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
-| read 01    | [Node Ecosystem, TDD, CI/CD](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md) |
+| 401-prep    | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md) |
