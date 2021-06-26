@@ -87,6 +87,7 @@ _and here are Some of my favourite hobbies:_
 
 **Table of contents for code-401**:
 
-| Assignment | link                                                                                                     |
-| ---------- | -------------------------------------------------------------------------------------------------------- |
-| 401-prep    | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md) |
+| Assignment | link                                                                                         |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| 401-prep   | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md)        |
+| read 01    | [Node Ecosystem](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md) |
