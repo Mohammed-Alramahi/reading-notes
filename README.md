@@ -93,3 +93,4 @@ _and here are Some of my favourite hobbies:_
 | read 01    | [Node Ecosystem](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md)   |
 | read 02    | [Express](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read02.md)          |
 | read 03    | [Express REST API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read03.md) |
+| read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)    |
