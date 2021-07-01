@@ -94,3 +94,4 @@ _and here are Some of my favourite hobbies:_
 | read 02    | [Express](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read02.md)          |
 | read 03    | [Express REST API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read03.md) |
 | read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)    |
+| read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)     |
