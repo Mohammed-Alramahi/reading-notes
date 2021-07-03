@@ -56,7 +56,7 @@ Bcrypt and setting permissions for different users. I'd also like to develop my 
 
 ## Resources
 
-[Google][https://google.com]
+[Google](https://google.com)
 
 [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 
