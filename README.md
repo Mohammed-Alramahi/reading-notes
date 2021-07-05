@@ -96,3 +96,4 @@ _and here are Some of my favourite hobbies:_
 | read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)    |
 | read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)     |
 | read 06    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read06.md)   |
+| read 07    | [](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md)                 |
