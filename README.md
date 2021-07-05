@@ -87,13 +87,13 @@ _and here are Some of my favourite hobbies:_
 
 **Table of contents for code-401**:
 
-| Assignment | link                                                                                           |
-| ---------- | ---------------------------------------------------------------------------------------------- |
-| 401-prep   | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md)          |
-| read 01    | [Node Ecosystem](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md)   |
-| read 02    | [Express](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read02.md)          |
-| read 03    | [Express REST API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read03.md) |
-| read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)    |
-| read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)     |
-| read 06    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read06.md)   |
-| read 07    | [](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md)                 |
+| Assignment | link                                                                                               |
+| ---------- | -------------------------------------------------------------------------------------------------- |
+| 401-prep   | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md)              |
+| read 01    | [Node Ecosystem](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md)       |
+| read 02    | [Express](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read02.md)              |
+| read 03    | [Express REST API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read03.md)     |
+| read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)        |
+| read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)         |
+| read 06    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read06.md)       |
+| read 07    | [Bearer Authorization](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md) |
