@@ -97,9 +97,5 @@ _and here are Some of my favourite hobbies:_
 | read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)         |
 | read 06    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read06.md)       |
 | read 07    | [Bearer Authorization](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md) |
-<<<<<<< HEAD
 | read 08    | [Access Control](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read08.md)       |
 | read 09    | [SQL](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read09.md)                  |
-=======
-| read 08    | [Acess Control](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read08.md) |
->>>>>>> cb72cfb0d61531d7054f0eeedc31c7ae487f4932
