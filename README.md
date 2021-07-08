@@ -99,4 +99,4 @@ _and here are Some of my favourite hobbies:_
 | read 07    | [Bearer Authorization](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md) |
 | read 08    | [Access Control](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read08.md)       |
 | read 09    | [SQL](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read09.md)                  |
-| read 10    | [Stacks and Queues](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read010.md)   |
+| read 10    | [Stacks and Queues](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read10.md)    |
