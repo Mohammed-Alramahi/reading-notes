@@ -87,16 +87,17 @@ _and here are Some of my favourite hobbies:_
 
 **Table of contents for code-401**:
 
-| Assignment | link                                                                                               |
-| ---------- | -------------------------------------------------------------------------------------------------- |
-| 401-prep   | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md)              |
-| read 01    | [Node Ecosystem](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md)       |
-| read 02    | [Express](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read02.md)              |
-| read 03    | [Express REST API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read03.md)     |
-| read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)        |
-| read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)         |
-| read 06    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read06.md)       |
-| read 07    | [Bearer Authorization](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md) |
-| read 08    | [Access Control](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read08.md)       |
-| read 09    | [SQL](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read09.md)                  |
-| read 10    | [Stacks and Queues](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read10.md)    |
+| Assignment | link                                                                                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------- |
+| 401-prep   | [prep work](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/prep.md)                   |
+| read 01    | [Node Ecosystem](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read01.md)            |
+| read 02    | [Express](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read02.md)                   |
+| read 03    | [Express REST API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read03.md)          |
+| read 04    | [Data Modeling](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read04.md)             |
+| read 05    | [Linked Lists](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read05.md)              |
+| read 06    | [Authentication](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read06.md)            |
+| read 07    | [Bearer Authorization](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read07.md)      |
+| read 08    | [Access Control](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read08.md)            |
+| read 09    | [SQL](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read09.md)                       |
+| read 10    | [Stacks and Queues](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read10.md)         |
+| read 11    | [Event Driven Applications](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read11.md) |
