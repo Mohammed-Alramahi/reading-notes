@@ -101,3 +101,4 @@ _and here are Some of my favourite hobbies:_
 | read 09    | [SQL](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read09.md)                       |
 | read 10    | [Stacks and Queues](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read10.md)         |
 | read 11    | [Event Driven Applications](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read11.md) |
+| read 12    | [Socket.io](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read12.md) |
