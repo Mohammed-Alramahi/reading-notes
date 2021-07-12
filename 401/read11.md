@@ -40,4 +40,4 @@ Sql (hopefully), dealing with RBAC, best practices for event driven programming
 
 **What are you most excited about trying to implement or see how it works?**
 
-authorization , event driven programming, dealing with multiple event listeners
+authorization , full registration system, Event Emitters.
