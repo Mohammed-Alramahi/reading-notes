@@ -16,7 +16,7 @@
 
 - Can a socket connection application be connected to multiple socket servers? Yes.
 
-- Can an application be both a socket server and a socket connection? Yes.
+- Can an application be both a socket server and a socket connection? No, that's near impossible (from stackoverflow)
 
 ### Observer Pattern
 
