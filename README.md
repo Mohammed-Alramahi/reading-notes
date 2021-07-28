@@ -105,3 +105,6 @@ _and here are Some of my favourite hobbies:_
 | read 13    | [Message Queues](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read13.md) |
 | read 14    | [Event Driven Architecture](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read14.md) |
 | read 16    | [AWS: Cloud Services](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read16.md) |
+| read 17   | [AWS: Cloud Services](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read16.md) |
+| read 18    | [AWS: API, Dynamo and Lambda](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read18.md) |
+| read 19    | [AWS: Events](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read19.md) |
