@@ -108,3 +108,4 @@ _and here are Some of my favourite hobbies:_
 | read 17   | [AWS: Cloud Services](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read16.md) |
 | read 18    | [AWS: API, Dynamo and Lambda](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read18.md) |
 | read 19    | [AWS: Events](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read19.md) |
+| read 26    | [Component Based UI](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read26.md) |
