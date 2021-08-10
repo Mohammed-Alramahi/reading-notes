@@ -1,57 +1,39 @@
-# Component Composition
+# Component Lifecycle / useEffect() Hook
 
 ## Review, Research, and Discussion
 
-### Can a parent component access the state of a child component?
+### Why do we not need more .html pages in a multi-page React app?
 
-Yes, parent components can access the state of a child component using refs.
+In a multi-page react app, we don't need any additional html pages since we can use a browser router to render certain components on separate pathways using a browser router. This is due to the way React handles the DOM.
 
-### What can be passed along in a prop variable?
+### If we wanted a component to show up on every page, where would we put it and why?
 
-Prop variables are used to pass data. This can include objects, arrays, strings, numbers and methods.
+- **Inside the BrowserRouter , outside a Route**
 
-### How can a child component “know” the state of another component?
+### What does routing do with the components that were rendered when a new route is requested
 
-A child can obtain the state of another component if it passed as a prop by the parent component.
+  it goes to the new component and removes the old component from the DOM.
+
+### What does props.children contain?
+
+  props.children is a children that were passed to the component.
+
+### How do useState() and this.setState() differ?
+
+  setState is merging the previous state with the new one, it means that you dont have to pass the full state object every time you want to change some part of the state. React will update given properties and won’t touch the rest. The useState’s updater rewrites a previous state with a new one and it does not perform any merging. Its just replacement instead of merging.
 
 ## Document the following Vocabulary Terms
 
-### component props
+- **State Hook** is a Hook that allows you to have state variables in functional components , it takes the initial state as an argument and returns an array of two entries.
 
-Component props, short for properties, are JS objects that have been passed from a parent component.
-
-### component state
-
-Component state is a JS object managed within a component. It contains the current state of the component.
-
-### application state
-
-Application state refers to the current state of an application and is easily managed with the state management library, React. Redux is a useful tool to store global state for your application. Recently, application state management has been made even simpler with the addition of React hooks.
-
-## Preview
-
-### Which 3 things had you heard about previously and now have better clarity on?
-
-Redux, refs, props
-
-### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-
-Redux, refs, hooks
-
-### What are you most excited about trying to implement or see how it works?
-
-hooks and redux
+- **Mounting and Un-Mounting** The main job of React is to figure out how to modify the DOM to match what the components want to be rendered on the screen. React does so by mounting (adding nodes to the DOM), unmounting (removing them from the DOM), and updating (making changes to nodes already in the DOM).
 
 ## Preparation Materials
 
-[react basics recap](https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030)
+### Using the Effect Hook
 
-[props.children](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
+  **What does useEffect do?** By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we’ll refer to it as our “effect”), and call it later after performing the DOM updates. In this effect, we set the document title, but we could also perform data fetching or call some other imperative API.
 
-[composition vs inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+  **Why is useEffect called inside a component?** Placing useEffect inside the component lets us access the count state variable (or any props) right from the effect. We don’t need a special API to read it — it’s already in the function scope. Hooks embrace JavaScript closures and avoid introducing React-specific APIs where JavaScript already provides a solution.
 
-[react testing library api example](https://testing-library.com/docs/react-testing-library/example-intro)
-
-[react-if component](https://www.npmjs.com/package/react-if)
-
-[react-testing-library-async](https://testing-library.com/docs/dom-testing-library/api-async)
+  **Does useEffect run after every render?** Yes! By default, it runs both after the first render and after every update. (We will later talk about how to customize this.) Instead of thinking in terms of “mounting” and “updating”, you might find it easier to think that effects happen “after render”. React guarantees the DOM has been updated by the time it runs the effects.

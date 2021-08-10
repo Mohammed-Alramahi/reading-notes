@@ -110,4 +110,4 @@ _and here are Some of my favourite hobbies:_
 | read 19    | [AWS: Events](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read19.md) |
 | read 26    | [Component Based UI](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read26.md) |
 | read 27   | [Props and State](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read27.md) |
-| read 28   | [Component Composition](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read28.md) |
+| read 28   | [Component Life Cycle](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read28.md) |
