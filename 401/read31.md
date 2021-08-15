@@ -2,9 +2,9 @@
 
 ## Review, Research, and Discussion
 
-### Describe use cases for useMemo() and useReducer()
+### Describe use cases for useState() and useReducer()
 
-* useMemo(): You’re noticing a component’s render is frustratingly slow, and you’re passing a calculation to an unknowable number of children, such as when rendering children using Array.map() or your app often becomes unresponsive because you’re fetching a large amount of data, and having to transform it into a usable format. [source](https://maxrozen.com/understanding-when-use-usememo)
+* useState is a Basic Hook for managing simple state transformation and useReducer is an Additional Hook for managing more complex state logic, it is worth noting that useState uses the useReducer internally. 
 
 * useReducer(): useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one. useReducer also lets you optimize performance for components that trigger deep updates because you can pass dispatch down instead of callbacks. [source](https://reactjs.org/docs/hooks-reference.html#:~:text=useReducer%20is%20usually%20preferable%20to,dispatch%20down%20instead%20of%20callbacks.)
 
