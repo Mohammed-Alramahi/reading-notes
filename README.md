@@ -112,3 +112,6 @@ _and here are Some of my favourite hobbies:_
 | read 27   | [Props and State](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read27.md) |
 | read 28   | [Component Life Cycle](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read28.md) |
 | read 29   | [Advanced State with Reducers](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read29.md) |
+| read 30   | [Hash Tables](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read30.md) |
+| read 31   | [Context API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read31.md) |
+| read 32   | [Context API - Behaviors](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read32.md) |
