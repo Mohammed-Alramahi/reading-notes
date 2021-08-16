@@ -70,7 +70,7 @@ Can be used in place of useState and is useful when dealing with complex state l
 
 ### Which 3 things had you heard about previously and now have better clarity on?
 
-custom hooks, useMemo, useReducer
+custom hooks, useState, useReducer
 
 ### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
