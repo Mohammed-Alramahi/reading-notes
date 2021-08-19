@@ -115,3 +115,6 @@ _and here are Some of my favourite hobbies:_
 | read 30   | [Hash Tables](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read30.md) |
 | read 31   | [Context API](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read31.md) |
 | read 32   | [Context API - Behaviors](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read32.md) |
+| read 33   | [Login and Auth](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read33.md) |
+| read 34   | [API Integration](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read34.md) |
+| read 35   | [Graphs](https://github.com/Mohammed-Alramahi/reading-notes/blob/main/401/read35.md) |
